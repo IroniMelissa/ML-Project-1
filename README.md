@@ -1,2 +1,2 @@
 # ML-Project-1
- Machine Learning Model for summation of two numbers.
+ Linear Regression model developed using ML techniques.
